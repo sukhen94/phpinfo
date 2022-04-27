@@ -1,4 +1,4 @@
 <?php
 echo sukhen;
-echo phpinfo();
+echo remove images;
 ?>
