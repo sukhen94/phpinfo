@@ -1,4 +1,4 @@
 <?php
-echo sukhen
+echo sukhen;
 echo phpinfo();
 ?>
